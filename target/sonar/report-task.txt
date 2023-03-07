@@ -1,0 +1,6 @@
+projectKey=helloa
+serverUrl=http://3.108.220.145:9000
+serverVersion=8.9.1.44547
+dashboardUrl=http://3.108.220.145:9000/dashboard?id=helloa
+ceTaskId=AYa6tVTBpH5GL3Zu_WzO
+ceTaskUrl=http://3.108.220.145:9000/api/ce/task?id=AYa6tVTBpH5GL3Zu_WzO
